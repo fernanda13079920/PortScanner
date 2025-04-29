@@ -134,26 +134,5 @@ docker-compose up -d --build
 
 ---
 
-## Licencia
 
-Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
-
----
-
-## Apoya el Proyecto
-
-- Dale una ⭐ al repositorio para apoyar este proyecto.
-- ¡Comparte con otros interesados en ciberseguridad y análisis de vulnerabilidades!
-
----
-
-## Video de Demostración
-
-[![Video de Demostración](https://www.facebook.com/reel/1695566091061439)](https://www.facebook.com/reel/1695566091061439)
-
----
-
-## Agradecimientos
-
-Agradecemos a la comunidad de ciberseguridad y desarrolladores por el soporte continuo en herramientas de código abierto.
 
